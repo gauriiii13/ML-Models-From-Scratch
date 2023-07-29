@@ -16,7 +16,7 @@ Contributions to this repository are highly appreciated! If you want to add more
 
 1. Fork this repository to your GitHub account.
 2. Create a new branch with a descriptive name related to your contribution.
-3.Commit your changes and push the branch to your fork.
+3. Commit your changes and push the branch to your fork.
 4. Open a pull request (PR) to the main repository, explaining the changes you made.
 
 Please ensure that your code follows best practices, is well-documented, and includes tests when relevant.
